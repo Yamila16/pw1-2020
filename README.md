@@ -50,6 +50,16 @@
     	</aside>
   	</main>
 	 	<hr>
+	<article>
+  		<h2>Programar una videollamada:</h2>
+  		<h3>Los pasos que hay que seguir son los siguientes:</h3>
+  		<ol type="1" start="1">
+  			<li>Crea un evento en Calendar.</li>
+  			<li>Haz clic en Añadir invitados e introduce los nombres o las direcciones de correo electrónico de las personas 			     a las que quieras invitar.</li>
+  			<li>Haz clic en Guardar.</li>
+  			<li>Haz clic en Enviar para que los invitados reciban una notificación.</li>
+  		</ol>
+  	</article>
   	<footer>
     Copyright &copy; Yamila Sosa PW1 2020
   </footer>
